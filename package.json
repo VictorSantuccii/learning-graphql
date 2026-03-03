@@ -1,0 +1,24 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "Estudos com GraphQL",
+  "homepage": "https://github.com/VictorSantuccii/learning-graphql#readme",
+  "bugs": {
+    "url": "https://github.com/VictorSantuccii/learning-graphql/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSantuccii/learning-graphql.git"
+  },
+  "license": "ISC",
+  "author": "Santucci",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.13.0"
+  }
+}
